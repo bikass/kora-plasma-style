@@ -1,5 +1,5 @@
 # kora-dark
-Kora theming for KDE Plasma style.
+Kora theming (Beta) for KDE Plasma style.
 
 # Preview:
 ![](kora-dark-style.jpg)
