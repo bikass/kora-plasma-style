@@ -1,2 +1,2 @@
-# kora-plasma-style
-Kora theming for KDE Plasma style
+# kora-dark
+Kora theming for KDE Plasma style.
