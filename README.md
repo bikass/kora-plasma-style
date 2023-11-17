@@ -1,5 +1,5 @@
 # kora-dark
-Kora theming (Beta) for KDE Plasma style.
+Kora theming (Beta) for KDE Plasma.
 * kora-dark - desktop theme
     ~/.local/share/plasma/desktoptheme
 * Kvantum theme
