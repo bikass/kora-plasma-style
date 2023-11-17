@@ -4,7 +4,7 @@ Kora theming (Beta) for KDE Plasma style.
     ~/.local/share/plasma/desktoptheme
 * Kvantum theme
 
-* Aurotae theme
+* Aurorae theme
     ~/.local/share/aurorae/themes
 
 # Preview:
