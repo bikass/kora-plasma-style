@@ -86,8 +86,8 @@ light.color=#ffffff
 mid.light.color=#eeeeee
 dark.color=#bbbbbb
 mid.color=#dddddd
-highlight.color=#3484e2
-inactive.highlight.color=#3484e2
+highlight.color=#a0def8
+inactive.highlight.color=#a0def8
 text.color=#333333
 inactive.text.color=#666666
 window.text.color=#333333
@@ -98,8 +98,8 @@ tooltip.base.color=#f5f5f5
 tooltip.text.color=#333333
 highlight.text.color=#ffffff
 inactive.highlight.text.color=#343434
-link.color=#3484e2
-link.visited.color=#452886
+link.color=#a0def8
+link.visited.color=#6b51bb
 progress.indicator.text.color=#ffffff
 
 [Hacks]

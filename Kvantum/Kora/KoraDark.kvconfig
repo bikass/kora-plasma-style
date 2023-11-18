@@ -86,8 +86,8 @@ light.color=#5a5a5a
 mid.light.color=#555555
 dark.color=#202020
 mid.color=#3c3c3c
-highlight.color=#a0b4f8
-inactive.highlight.color=#a0b4f8
+highlight.color=#a0def8
+inactive.highlight.color=#a0def8
 text.color=#dedede
 inactive.text.color=#bfbfbf
 window.text.color=#dedede
@@ -98,8 +98,8 @@ tooltip.base.color=#333333
 tooltip.text.color=#dedede
 highlight.text.color=#ffffff
 inactive.highlight.text.color=#f5f5f5
-link.color=#3484e2
-link.visited.color=#452886
+link.color=#3498e2
+link.visited.color=#6b51bb
 progress.indicator.text.color=#ffffff
 
 [Hacks]
